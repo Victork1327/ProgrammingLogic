@@ -9,7 +9,7 @@
       /* This is a multi line comment used to show my name and course
       Victor Karapunarly IT1050*/
       /*For the next step, I have declared a couple of different variables my favorite number is 17 from soccer. Python is the only language I have learned in which I wrote my code. 
- I've only developed one complete program attributing to the decimal answer and I don't think I have done enough with programming to say I have experience.*/ 
+      I've only developed one complete program attributing to the decimal answer and I don't think I have done enough with programming to say I have experience.*/ 
       int favnum = 17;
       string favprog = "Python";
       double prognum = 1.5;
